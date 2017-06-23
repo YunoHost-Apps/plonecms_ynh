@@ -1,12 +1,11 @@
-[![Install Roadiz with YunoHost](https://github.com/ABLD/install-app/blob/master/install-with-yunohost-community.png)](https://install-app.yunohost.org/?app=roadiz)
+[![Install PloneCMS with YunoHost](https://github.com/ABLD/install-app/blob/master/install-with-yunohost-community.png)](https://install-app.yunohost.org/?app=plonecms)
 
-# roadiz_ynh
-"Roadiz is a modern CMS based on a node system which can handle many types of services. Based on Symfony components and Doctrine ORM, it allows you to create your data schema from scratch and to organise your content as you want."[roadiz.io]
+# plonecms_ynh
+Plone CMS is a CMS (Content Management System) written in Python. It's a professional CMS similar to Roadiz or Concrete5
 <br> 
 
-## Etat : WORKING
-## Be aware that Roadiz is in its BETA VERSION.  
+## Etat : NOT WORKING 
 ## Screenshot
 
 
-Site officiel : https://www.roadiz.io
+Site officiel : https://plone.org
